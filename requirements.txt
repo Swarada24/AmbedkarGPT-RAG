@@ -1,0 +1,14 @@
+langchain
+langchain-community
+chromadb
+sentence-transformers
+transformers
+torch
+nltk
+tqdm
+scikit-learn
+rouge-score
+numpy
+jsonlines
+pandas
+ollama

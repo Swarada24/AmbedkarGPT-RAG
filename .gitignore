@@ -1,0 +1,58 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# --- Virtual Environment ---
+venv/
+env/
+ENV/
+*.env
+.venv/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints
+
+# --- VS Code ---
+.vscode/
+.history/
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+
+# --- Data Files ---
+data/
+*.csv
+*.json
+*.db
+*.sqlite
+*.sqlite3
+*.mbtiles
+
+# --- Model Checkpoints ---
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.gguf
+
+# --- Python Packaging ---
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- Others ---
+*.swp
+*.swo
